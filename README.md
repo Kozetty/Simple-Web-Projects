@@ -1,2 +1,1 @@
-# Simple-Web-Projects
-Simple practice website projects.
+# Frontend Mentor challenge
